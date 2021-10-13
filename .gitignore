@@ -114,3 +114,6 @@ dmypy.json
 .pyre/
 *.pptx
 *.docx
+.DS_Store
+~$data.xlsx
+out.csv
